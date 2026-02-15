@@ -22,9 +22,10 @@ These are some of my skills that I love:
 - **DevOps & Tools**: Docker, Pnpm, Jenkins, Azure, GitHub, Linux, git
 
   <br/>
-  <br/>
 
 [![Some of my skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vitest,jest,astro,nodejs,express,python,sqlite,mongodb,mysql,docker,pnpm,jenkins,azure,github,linux,git)](https://skillicons.dev)
+
+  <br/>
 
 ## 📚 What am I learning?
 
