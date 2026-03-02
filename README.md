@@ -1,6 +1,6 @@
 # Who am I? ⚡
 
-Hey! My name is Angel, I'm a Frontend developer currently living in Prague, Czech Republic 🌎. I analyze problems and solve them creatively, I'm focused on JavaScript Vanilla, TypeScript, CSS Grid, ReactJS, smooth user experiences. When I'm not solving problems in the code 💻 I can be found playing volleyball 🏐, Futbol ⚽, lifting weights 🏋️, and spending time with my family.
+Senior Frontend Developer with 6+ years of experience, based in Prague 🌎, specialized in modernizing legacy systems and building performant, scalable web applications. Strong expertise in the modern JavaScript ecosystem (React, TypeScript) with a solid focus on performance, scalable web, and user experience. Proven ability to translate complex business requirements into clean, maintainable code and deliver high-quality solutions in cross-functional environments. Always working and helping teams to achieve our goals. When I'm not solving problems in the code 💻 I can be found playing volleyball 🏐, Futbol ⚽, lifting weights 🏋️, and spending time with my family.
 
 [![LinkedIn link](https://skillicons.dev/icons?i=linkedin)](https://es.linkedin.com/in/aliendostea)
 [![Codepen link](https://skillicons.dev/icons?i=codepen)](https://codepen.io/ang-dev)
