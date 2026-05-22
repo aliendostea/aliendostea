@@ -11,7 +11,7 @@ Senior Frontend Developer with 6+ years of experience, based in Prague 🌎, spe
 
 These are some of my skills that I love:
 
-- **Frontend**: JavaScript Vanilla, ReactJS, Css Grid, Zustand, StoryBook
+- **Frontend**: JavaScript Vanilla/TypeScript, ReactJS, Css Grid, Zustand, StoryBook
 
 - **Testing**: Vitest, PlayWright, Jest
 
