@@ -1,6 +1,6 @@
 # Who am I? ⚡
 
-Senior Frontend Developer with 6+ years of experience, based in Prague 🌎, specialized in modernizing legacy systems and building performant, scalable web applications. Strong expertise in the modern JavaScript ecosystem (React, TypeScript) with a solid focus on performance, scalable web, and user experience. Proven ability to translate complex business requirements into clean, maintainable code and deliver high-quality solutions in cross-functional environments. Always working and helping teams to achieve our goals. When I'm not solving problems in the code 💻 I can be found playing volleyball 🏐, Futbol ⚽, lifting weights 🏋️, and spending time with my family.
+Full stack with 6+ years of experience, based in Prague 🌎, specialized in modernizing legacy systems and building performant, scalable web applications. Strong expertise in the modern JavaScript ecosystem (React, TypeScript, Node.js) with a solid focus on performance, scalable web and user experience. Proven ability to translate complex business requirements into clean, maintainable code and deliver high quality solutions in cross functional environments. Always working and helping teams to achieve our goals. When I'm not solving problems in the code 💻 I can be found playing volleyball 🏐, lifting weights 🏋️, and spending time with my family.
 
 [![LinkedIn link](https://skillicons.dev/icons?i=linkedin)](https://es.linkedin.com/in/aliendostea)
 [![Codepen link](https://skillicons.dev/icons?i=codepen)](https://codepen.io/ang-dev)
@@ -15,11 +15,11 @@ These are some of my skills that I love:
 
 - **Testing**: Vitest, PlayWright, Jest
 
-- **Backend**: Astro, NodeJs, Express, Python
+- **Backend**: Astro, Node.js, Express, Python
 
 - **Database**: SQLite, Mongodb, MySQL
 
-- **DevOps & Tools**: Docker, Pnpm, Jenkins, Azure, GitHub, Linux, git
+- **DevOps & Tools**: Docker, Pnpm, Jenkins, CI/CD Pipelines, Azure, GitHub, Linux, git
 
   <br/>
 
